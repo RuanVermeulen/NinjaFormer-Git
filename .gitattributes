@@ -1,1 +1,2 @@
 Content/War_Camp/Props/* filter=lfs diff=lfs merge=lfs -text
+SM_WoodBox_UV.uasset filter=lfs diff=lfs merge=lfs -text
